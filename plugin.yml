@@ -1,0 +1,7 @@
+name: kKitPvP
+main: kookaburra.minecraft.plugins.kit.kKitPvP
+version: 1.0
+website: http://www.mcpvp.com/
+author: McPVP
+commands:
+  stats:
